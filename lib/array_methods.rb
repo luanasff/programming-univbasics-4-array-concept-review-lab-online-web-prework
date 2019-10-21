@@ -8,7 +8,7 @@ while array[counter]do
 end  
 
 
-
+return value_to_find
 
 end
 
