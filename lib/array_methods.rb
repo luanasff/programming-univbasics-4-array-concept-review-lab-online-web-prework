@@ -15,10 +15,10 @@ end
 def find_max_value(array)
   array.length.times do |counter|
     if array[counter]==find_max_value
-   
+     return counter
   counter = += 1
     end
-return find_max_value
+
 
 
 
