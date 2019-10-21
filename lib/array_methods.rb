@@ -5,7 +5,7 @@ while counter < array.length do
     return counter
   end
   counter +=1
-  end
+end
 nil 
 end  
 
