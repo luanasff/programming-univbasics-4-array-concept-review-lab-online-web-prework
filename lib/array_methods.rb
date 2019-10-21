@@ -1,6 +1,6 @@
 def find_element_index(array, value_to_find)
-array=[1,2,3,4,5]
-length= array.length 
+array.index(value_to_find)
+
 
 length.times do |index|
   puts array[index]
