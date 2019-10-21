@@ -8,10 +8,6 @@ while counter < array.length do
 end  
 
 
-return value_to_find
-
-end
-
 
 
 
