@@ -13,8 +13,7 @@ end
  
 
 def find_max_value(array)
-counter=0
-array.length.times do |
+array.length.times do |counter|
   while array[counter] do
     puts array[counter]
   counter = += 1
