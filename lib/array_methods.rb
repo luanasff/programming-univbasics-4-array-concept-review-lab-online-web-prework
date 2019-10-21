@@ -5,7 +5,7 @@ length= array.length
 length.times do |index|
   puts array[index]
   end
-find_element_index[1] 
+find_element_index([1]) 
 end
 
 
