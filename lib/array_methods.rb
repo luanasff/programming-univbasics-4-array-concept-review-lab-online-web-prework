@@ -1,9 +1,9 @@
 def find_element_index(array, value_to_find)
 counter=0
-while 
-legth= array.legth
-
-length.times do |counter|
+ 
+array.legth.times{|counter|
+  puts array[counter]
+end
 
 #counter =0
 #while counter < array.length do
