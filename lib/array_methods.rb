@@ -4,7 +4,7 @@ while counter < array.length do
   array.index(value_to_find[counter])
   counter +=1
   end
-
+nil 
 end  
 
 
